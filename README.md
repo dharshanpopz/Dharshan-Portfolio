@@ -2,7 +2,7 @@
 
 > 💻 A premium personal portfolio website showcasing my skills, projects, education, and journey as a Python Backend Developer & Aspiring Full-Stack Developer.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-DC143C?style=for-the-badge)](https://dharnx-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-DC143C?style=for-the-badge)](https://dharxn-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-dharshanpopz-181717?style=for-the-badge&logo=github)](https://github.com/dharshanpopz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharshan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dharshan-z)
 
@@ -100,7 +100,7 @@ Dharshan-Portfolio/
 🌐 Live Portfolio
 
 🚀 Visit My Portfolio
-👉 https://dharnx-portfolio.netlify.app/⁠�
+👉 https://dharxn-portfolio.netlify.app/
 
 
 📫 Connect With Me
