@@ -127,7 +127,9 @@ Dharshan-Portfolio/
 
 
 📊 Developer Journey
-Python          ███████████████░░░░░
+
+
+Python          ███████████████
 HTML/CSS        ████████████████░░░░
 JavaScript      ████████████░░░░░░░░
 Django          ██████████░░░░░░░░░░
