@@ -97,6 +97,7 @@ Dharshan-Portfolio/
 └── README.md
 
 
+
 🌐 Live Portfolio
 
 🚀 Visit My Portfolio
@@ -116,7 +117,10 @@ Dharshan-Portfolio/
 👉 dharxn07@gmail.com
 
 
+
+
 🎯 Current Goals
+
 📚 Improve Python development
 🐍 Learn advanced Django
 🌐 Become a Full-Stack Developer
@@ -126,10 +130,12 @@ Dharshan-Portfolio/
 
 
 
+
+
 📊 Developer Journey
 
 
-Python          ███████████████
+Python          ███████████████░░░░░
 HTML/CSS        ████████████████░░░░
 JavaScript      ████████████░░░░░░░░
 Django          ██████████░░░░░░░░░░
@@ -139,15 +145,23 @@ Git & GitHub    ███████████████░░░░░
 
 
 
+
+
 ⭐ Support
+
 If you like my work or find this repository useful, consider giving it a ⭐.
 It motivates me to keep learning, building, and improving! ❤️
 
 
 
+
+
 📜 License
+
 This project is open for learning and personal use.
 �
+
+
 
 
 
